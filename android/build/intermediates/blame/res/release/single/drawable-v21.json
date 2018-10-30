@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

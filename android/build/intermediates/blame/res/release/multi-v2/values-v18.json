@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

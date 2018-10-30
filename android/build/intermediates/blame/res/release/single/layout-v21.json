@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cliu1/git/DTI.Gentium.Mobile/node_modules/react-native-app-auth/android/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/cliu1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/3c6900df6a1216272d5e8306c5283aa1/res/color/abc_tint_default.xml"
+    }
+]
